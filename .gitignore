@@ -1,0 +1,11 @@
+# Tüm dosya ve klasörleri yoksay
+/*
+
+# Ancak şu dosyaları ve klasörleri yoksayma (Git tarafından takip edilecekler)
+!/.gitignore
+!/README.md
+!/install.bat
+!/run_pytestflow.bat
+!/test_sequences/
+!/test_sequences/**
+!/pytestflow.pdf
